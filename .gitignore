@@ -1,0 +1,4 @@
+db.sqlite3
+env/
+api/__pycache__
+movierater/__pycache__
